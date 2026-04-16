@@ -1,2 +1,2 @@
 # EdgeTX-LUA-Scripts
-Custom LUA scripts will be shared here
+Custom LUA scripts for EdgeTX radios will be shared here
